@@ -85,9 +85,7 @@ The `Presentation` folder contains our submission slides, highlighting the conce
 ---
 
 ## Credits
-- **Developers:** Shanvi Shivali Kothapalli, Jash Shah
-- **Hackathon Organizer:** Product Base Club, [Your School's Name]
+- **Developers:** Pranali Pawar, Jash Shah
+- **Hackathon Organizer:** Product Base Club, University of Texas at Dallas
 
-## License
-This project is licensed under the MIT License.
 
